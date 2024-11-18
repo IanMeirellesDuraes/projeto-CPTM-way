@@ -1,6 +1,7 @@
 # [GRUPO X] Nome do Projeto
 
-- [Link dos slides](https://docs.google.com/presentation/d/1WhcmPL6o3zCwUjxxyQNF7d44-AmTVTR8ej00qzn1UnQ/edit?usp=sharing)
+- [Link dos slides](https://www.canva.com/design/DAGPovO8Yc8/GhHaCx83Ak_ceCvN5YAqgw/edit?utm_content=DAGPovO8Yc8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Link dos slides](https://www.canva.com/design/DAGWyL2o_ew/LAtv4irxENV9HgVDmPpt4g/edit?utm_content=DAGWyL2o_ew&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - [Registro de Dailies](https://docs.google.com/document/d/1vSZhW51dhtNj-8pVV2NqcxydRceb_y7opwrtA5_hyyk/edit?tab=t.0)
 
 ## Integrantes
